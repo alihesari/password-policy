@@ -1,6 +1,6 @@
-# Password Policy #
+# Persian Password Policy #
 
-A password policy class for PHP    
+A password policy class for PHP in Persian    
 
 **Author** Craig Russell [craig@craig-russell.co.uk](mailto:craig@craig-russell.co.uk)      
 **Version** 0.1     
